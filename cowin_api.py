@@ -40,7 +40,7 @@ for i in centers:
         message = client.messages \
                         .create(
                             body=f"Hey, {capacity} {vaccine} vaccine slots are availabe at {name}.",
-                            from_='+12242796914',
+                            from_='Enter the number from the api',
                             to=f'{number}'
                         )
 
