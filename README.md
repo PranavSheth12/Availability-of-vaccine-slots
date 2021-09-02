@@ -2,6 +2,7 @@
 This is a program to find vaccine slots availability in any area using pincode.
 
 Steps: 
+
 1.] Register on the site "Twilio" to integrate its api for sending messages about slot availability.
 
 2.] Run the program through the terminal.
